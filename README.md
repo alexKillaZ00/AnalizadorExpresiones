@@ -8,6 +8,7 @@ También se muestra un conteo de los números, operadores, variables y simbolos 
 #### Ejecuta el Analizador de Expresiones
 
 1. Entra al link del repositorio [Aquí](https://github.com/alexKillaZ00/AnalizadorLexicohttp:// "Aquí")
-2. Dentro del repositorio se encuentra una carpeta llamada **"dist"**, ingresan a ella. 
-3. Presionan doble click sobre el ejecutable con terminacion **.jar** llamado LA2.
+2. Descargan el proyecto completo en un archivo comprimido zip.
+3. Una vez descargado lo descomprimen y les dejara una carpeta y dentro de la carpeta se encuentra una carpeta llamada **"dist"**, ingresan a ella. 
+4. Presionan doble click sobre el ejecutable con terminacion **.jar** llamado LA2.
 4. Se les ejecutará el programa y les mostrará la interfaz gráfica, donde les pedirá que ingresen la expresión a analizar.
